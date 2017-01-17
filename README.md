@@ -16,7 +16,6 @@ MNIST folder contains the MNIST dataset so no need to download it separately
 
 For requirements: 
 [from command line enter the directory containing 'requirements.txt' and then]
-'''
+
    ~$chmod +x requirements.sh
    ~$./requirements.sh
-'''
